@@ -14,7 +14,7 @@
   </style>
 </head>
 <body>
-  <h1>Welcome to the Red Page</h1>
+  <h1>Welcome to the white Page</h1>
   <p>This page has a red background.</p>
 </body>
 </html>
