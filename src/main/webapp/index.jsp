@@ -2,17 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My First Web Page</title>
+  <title>Red Page</title>
+  <style>
+    body {
+      background-color: red;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+  </style>
 </head>
 <body>
-
-  <h1>Welcome devops page</h1>
-  <p>This is a paragraph of text on my very first web page.</p>
-
-  <img src="https://via.placeholder.com/300" alt="Placeholder Image" width="300">
-
-  <p>Visit <a href="https://www.example.com" target="_blank">Example.com</a> for more information.</p>
-
+  <h1>Welcome to the Red Page</h1>
+  <p>This page has a red background.</p>
 </body>
 </html>
-
